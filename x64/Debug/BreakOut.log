@@ -1,25 +1,12 @@
-﻿  main.cpp
-  BreakOut.vcxproj -> C:\Users\Michiel\Desktop\GridGame\BreakOut\x64\Debug\BreakOut.exe
+﻿  pch.cpp
+  Ball.cpp
+  Block.cpp
+  main.cpp
+  Paddle.cpp
+  Generating Code...
+  BreakOut.vcxproj -> C:\Users\Michiel\Documents\05_Game_Assignment\x64\Debug\BreakOut.exe
   COPY THE DLL FILES
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2-2.0.10\lib\x64\SDL2.dll
-  1 File(s) copied
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_image-2.0.5\lib\x64\libjpeg-9.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_image-2.0.5\lib\x64\libpng16-16.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_image-2.0.5\lib\x64\libtiff-5.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_image-2.0.5\lib\x64\libwebp-7.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_image-2.0.5\lib\x64\SDL2_image.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_image-2.0.5\lib\x64\zlib1.dll
-  6 File(s) copied
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libFLAC-8.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libmodplug-1.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libmpg123-0.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libogg-0.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libopus-0.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libopusfile-0.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libvorbis-0.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\libvorbisfile-3.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_mixer-2.0.4\lib\x64\SDL2_mixer.dll
-  9 File(s) copied
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_ttf-2.0.15\lib\x64\libfreetype-6.dll
-  C:\Users\Michiel\Desktop\GridGame\BreakOut\Libraries\SDL2_ttf-2.0.15\lib\x64\SDL2_ttf.dll
-  2 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
